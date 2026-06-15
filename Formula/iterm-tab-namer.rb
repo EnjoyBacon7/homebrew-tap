@@ -3,8 +3,8 @@ class ItermTabNamer < Formula
 
   desc     "Auto-rename iTerm2 tabs from their content using Apple's on-device model"
   homepage "https://github.com/EnjoyBacon7/iterm-tab-namer"
-  url      "https://github.com/EnjoyBacon7/iterm-tab-namer/archive/refs/tags/v0.2.1.tar.gz"
-  sha256   "52550c412574fb77d1b5c78044f18c1c1f282c516af7f37f85a919a30977b5f2"
+  url      "https://github.com/EnjoyBacon7/iterm-tab-namer/archive/refs/tags/v0.3.0.tar.gz"
+  sha256   "15b6104c1cd9050c38a5d2329ef6e47c8a52c02002eae2f18f9ffb56f0d6d20b"
   license  "MIT"
 
   depends_on arch: :arm64        # on-device model is Apple Silicon only
